@@ -1,5 +1,5 @@
 # Containers
-The container world is dramatically changing everyday. This aims to be an updated and well organized list of resources about containers.  
+The container world is dramatically changing everyday. This aims to be an updated and well organized list of resources about containers. **Feel free to contribute by sending a pull request**.  
 
 ## Specifications
 + [Ocp](https://github.com/opencontainers/specs)
