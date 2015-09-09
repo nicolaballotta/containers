@@ -45,6 +45,7 @@ The container world is dramatically changing everyday. This aims to be an update
 + [Etcd](https://github.com/coreos/etcd)
 + [Packer](https://www.packer.io/)
 + [Serf](https://www.serfdom.io/)
++ [Dnsdock](https://github.com/tonistiigi/dnsdock)
 
 ## Basic Tutorials
 todo
