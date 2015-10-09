@@ -33,6 +33,7 @@ The container world is dramatically changing everyday. This aims to be an update
 + [Dokku](https://github.com/progrium/dokku/)
 + [CloudSlang](http://www.cloudslang.io/)
 + [Flynn](https://flynn.io/)
++ [Nomad](https://nomadproject.io/)
 
 ## Operating Systems
 + [CoreOS](https://coreos.com/)
